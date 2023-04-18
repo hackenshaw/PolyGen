@@ -2,6 +2,8 @@
 A demo application for procedural generation of 2D polygons
 
 ## Video
+[![Watch the video](https://img.youtube.com/vi/APvosl3d1uc/maxresdefault.jpg)](https://youtu.be/APvosl3d1uc)
+
 
 ## Description
 Polygon Generation Script
@@ -46,3 +48,5 @@ A “greyscale mode”
 
 
 ## Download
+
+[Version 1.0.0](https://github.com/hackenshaw/PolyGen/releases/tag/v1.0.0)
