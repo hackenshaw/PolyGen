@@ -1,6 +1,8 @@
 # PolyGen
 A demo application for procedural generation of 2D polygons
 
+You can get the source code here: https://store.hackenshaw.com/b/jBhuX
+
 ## Video
 [![Watch the video](https://img.youtube.com/vi/APvosl3d1uc/maxresdefault.jpg)](https://youtu.be/APvosl3d1uc)
 
